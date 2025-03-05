@@ -1,5 +1,5 @@
 # How to setup the bot
-1. Clone this reposytory or download zip file.
+1. Clone this repository or download zip file.
 2. Run telegram and create bot with BotFather and copy your token.
 3. Go to Google Lab and create API key.
 4. Add your token and api key to config.py file.
